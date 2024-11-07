@@ -14,7 +14,7 @@ To create a branch:
 To see the latest local changes
      git status
 
-To exactly see the  chnages made or  a single file :
+To exactly see the  changes made or  a single file :
 
     git diff
 
@@ -24,4 +24,28 @@ To stage the changes:
 
 To commit the changes:
 
-     git commit 
+     git commit -m "commit message"
+
+To push changes:
+
+    git push origin <sourceBranch>
+
+    class01 -> main
+    ex: git push origin class01
+
+### Daily
+
+To check the branch is clean:
+    git status
+
+To checkout to the main branch:
+
+    git checkout main
+
+ To get the latest changes:
+
+    git pull origin main
+    
+To create a branch:
+
+    git checkout -b <NEW BRANCH NAME>
