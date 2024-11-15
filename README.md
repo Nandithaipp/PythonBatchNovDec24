@@ -3,7 +3,7 @@
 ## Git Commands
 
 To clone a repository (not needed in codespace, needed for local development) :
-git clone https https://github.com/Nandithaipp/PythonBatchNovDec24.git
+    git clone https https://github.com/Nandithaipp/PythonBatchNovDec24.git
 
 To list the local branches
     git branch
@@ -12,7 +12,7 @@ To create a branch:
     git checkout -b class01
 
 To see the latest local changes
-     git status
+    git status
 
 To exactly see the  changes made or  a single file :
 
@@ -45,7 +45,7 @@ To checkout to the main branch:
  To get the latest changes:
 
     git pull origin main
-    
+
 To create a branch:
 
     git checkout -b <NEW BRANCH NAME>
