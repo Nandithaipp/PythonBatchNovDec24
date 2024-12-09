@@ -26,12 +26,12 @@ else:
 
 # Method 5
 
-match week_of_day:
-    case "Monday" | "Tuesday" | "Wednesday" | "Thursday" | "Friday":
-        print("TIMINGS: 9 AM to 6 PM")
-    case "Saturday":
-        print("TIMINGS: 9 AM to 1 PM")
-    case "Sunday":
-        print("----HOLIDAY----------")
-    case _:
-        print("INVALID ENTRY! PLEASE TRY AGAIN!!")
+# match week_of_day:
+#     case "Monday" | "Tuesday" | "Wednesday" | "Thursday" | "Friday":
+#         print("TIMINGS: 9 AM to 6 PM")
+#     case "Saturday":
+#         print("TIMINGS: 9 AM to 1 PM")
+#     case "Sunday":
+#         print("----HOLIDAY----------")
+#     case _:
+#         print("INVALID ENTRY! PLEASE TRY AGAIN!!")
