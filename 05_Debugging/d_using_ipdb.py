@@ -23,4 +23,6 @@ for each_num in numbers:
         print(each_num, end=", ")
 
 
-# Assignment: How to clear one specific breakpoint, in ipdb
+# Assignment: How to clear one specific breakpoint, in ipdb:
+
+#Use the clear command followed by the breakpoint number
