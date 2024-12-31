@@ -49,3 +49,33 @@ To checkout to the main branch:
 To create a branch:
 
     git checkout -b <NEW BRANCH NAME>
+
+    Isolated environment 
+
+why needed
+    - same system, multiple projects
+        - different python versions 
+        - same python verison, but differenet module versions
+
+How to create Virtual Environment 
+    - Virtualenv
+    - venv
+    - pipenv
+    - poetry 
+    - uv
+
+## Virtual Environment
+Using Virtualenv
+    
+    Install
+        pip install virtualenv
+    
+    create virtual environment
+        python -m virtualenv .venv
+    
+    activate virtual environment
+        linux
+            source .venv/bin/activate
+
+        windows
+            .venv/script/activate
