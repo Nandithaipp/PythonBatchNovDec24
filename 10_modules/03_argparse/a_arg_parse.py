@@ -2,7 +2,7 @@
 Purpose: importance and usage of argparse
 """
 
-# # Method 1: hard- coding
+# Method 1: hard- coding
 # user_name = 'abhi'
 # password = 'abhi@123'
 # server_name = 'issadsad.mydomain.in'
