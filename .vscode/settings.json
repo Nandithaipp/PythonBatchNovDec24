@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./11_File_Operations/02_structured_files/02_xml/01_xml/b_writing_with_"
+    ]
+}
